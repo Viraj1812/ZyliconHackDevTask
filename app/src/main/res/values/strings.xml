@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZyliconHackDevTask</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+    AIzaSyCmskdHKXTrBbY9aI5W0kR-9bDr_AB0vzU
+</string>
+</resources>
